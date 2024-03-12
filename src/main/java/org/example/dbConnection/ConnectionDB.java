@@ -14,7 +14,7 @@ public class ConnectionDB {
             Class.forName("com.mysql.cj.jdbc.Driver");
             String url = "jdbc:mysql://localhost/dbFormazioneSuMisura";
             Connection con = DriverManager.getConnection(url, "user", "password");
-            System.out.println("Connessione OK \n");
+            System.out.println("Connessione OOK \n");
             return con;
         } catch (ClassNotFoundException e) {
             System.out.println("DB driver not found \n");
