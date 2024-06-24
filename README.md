@@ -33,9 +33,5 @@ Il progetto è organizzato come segue:
 
 ## Configurazione
 
-Configura il file `resources/config.properties` con le informazioni della tua base di dati:
-
-```properties
-db.url=jdbc:mysql://localhost:3306/tua_base_di_dati
-db.username=tuo_username
-db.password=tuo_password
+Configura il file src/main/java/org/example/dbConnection/ConnectionDB.java
+Connection con = DriverManager.getConnection(url, "Your-username", "Your-password");
