@@ -8,7 +8,7 @@ Il progetto è organizzato come segue:
 
 - `src/` - Contiene il codice sorgente dell'applicativo Java
 - `Image/` - Contiene le immagini dell'applicativo Java
-- - `databases/ - Contiene lo script per la creazione del DataBase
+- `databases/ - Contiene lo script per la creazione del DataBase
 
 
 ## Requisiti
