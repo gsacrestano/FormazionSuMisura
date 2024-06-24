@@ -32,6 +32,7 @@ Il progetto è organizzato come segue:
     ```
 
 ## Configurazione
-
-Configura il file src/main/java/org/example/dbConnection/ConnectionDB.java
+ Configura il file src/main/java/org/example/dbConnection/ConnectionDB.java
+```
 Connection con = DriverManager.getConnection(url, "Your-username", "Your-password");
+ ```
