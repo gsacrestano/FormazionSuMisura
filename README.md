@@ -7,15 +7,13 @@ Formazione Su Misura è un applicativo Java creato per testare una base di dati 
 Il progetto è organizzato come segue:
 
 - `src/` - Contiene il codice sorgente dell'applicativo Java
-- `lib/` - Contiene le librerie necessarie per il funzionamento dell'applicativo
-- `resources/` - Contiene i file di configurazione e i dati necessari per il test
-- `docs/` - Contiene la documentazione del progetto
-- `test/` - Contiene i test unitari
+- `Images/` - Contiene le immagini dell'applicativo Java
+
 
 ## Requisiti
 
 - JDK 11 o superiore
-- Un database compatibile (ad esempio, MySQL, PostgreSQL, ecc.)
+- Un database compatibile (ad esempio, MySQL)
 - Maven (opzionale, per la gestione delle dipendenze)
 
 ## Installazione
